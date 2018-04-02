@@ -6,6 +6,11 @@
 #            site.social-network-links.<key>
 #   icon: Specify a valid fontawesome icon class
 
+band:
+  name: "Band"
+  baseURL: "https://band.us/en"
+  icon: "fa-band"
+
 facebook:
   name: "Facebook"
   baseURL: "https://www.facebook.com/"
