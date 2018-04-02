@@ -1,5 +1,3 @@
-
-
 # A first post
 
 ## Why am I writing this?
